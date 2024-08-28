@@ -1,1 +1,1 @@
-download confocal imaging data from bioimage archive S-BIAD1341 and decompress here
+download confocal imaging data from bioimage archive S-BIAD1341 here
