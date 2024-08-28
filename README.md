@@ -3,4 +3,4 @@ Jupyter notebook detailing code for generating figures associated with "Optogene
 
 create conda environment using provided environment.yml file
 
-download associated confocal imaging data from bioimage archive
+download associated confocal imaging data from bioimage archive, BioImages accession number S-BIAD1341
